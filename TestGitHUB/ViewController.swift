@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  TestGitHUB
 //
-//  Created by manfred on 28/06/25.
+//  Created by manfred kohl on 28/06/25.
 //
 
 import Cocoa
